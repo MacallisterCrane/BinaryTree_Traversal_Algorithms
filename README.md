@@ -15,4 +15,4 @@ This repository provides a detailed guide and implementations of various binary 
 ## Usage
 Clone this repository to your local machine:
 ```sh
-git clone https://gitlab.com/macallister-crane/Binary-Tree-Traversal_Methods.git
+git clone https://gitlab.com/MacallisterCrane/BinaryTree_Traversal_Algorithms.git
